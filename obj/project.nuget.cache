@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcK2+grXxUjR03r8auzZHr9nMyvusn9pYSkJPsXUapqrBn3LtNzWtQ+LB3vglthODX2DNpM+E/6xQ4AP/iNS9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\TheViandaProject\\TheViandaProject\\TheViandaProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
