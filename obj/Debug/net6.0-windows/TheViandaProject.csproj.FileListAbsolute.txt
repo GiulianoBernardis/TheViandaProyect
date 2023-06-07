@@ -25,3 +25,15 @@ C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-
 C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\ref\TheViandaProject.dll
 C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
 C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\Insumos\AdministradorInsumos.g.cs
+C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\Insumos\EditorInsumo.g.cs
+C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\MateriasPrimas\AdministradorMateriasPrimas.g.cs
+C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\MateriasPrimas\EditorMateriaPrima.g.cs
+C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\Recetas\AdministradorRecetas.g.cs
+C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\Recetas\EditorReceta.g.cs
+C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\Insumos\AdministradorInsumos.baml
+C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\Insumos\EditorInsumo.baml
+C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\MateriasPrimas\AdministradorMateriasPrimas.baml
+C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\MateriasPrimas\EditorMateriaPrima.baml
+C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\Recetas\AdministradorRecetas.baml
+C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\obj\Debug\net6.0-windows\Views\Recetas\EditorReceta.baml

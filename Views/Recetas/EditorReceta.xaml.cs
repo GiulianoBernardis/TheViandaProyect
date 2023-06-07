@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MahApps.Metro.Controls;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,7 +18,7 @@ namespace TheViandaProject.Views.Recetas
     /// <summary>
     /// Lógica de interacción para EditorReceta.xaml
     /// </summary>
-    public partial class EditorReceta : Window
+    public partial class EditorReceta : MetroWindow
     {
         public EditorReceta()
         {

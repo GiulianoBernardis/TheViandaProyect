@@ -7,7 +7,45 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Views\Insumos\AdministradorInsumos.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Insumos\EditorInsumo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MateriasPrimas\AdministradorMateriasPrimas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MateriasPrimas\EditorMateriaPrima.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Recetas\AdministradorRecetas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Recetas\EditorReceta.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\Insumos\AdministradorInsumos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Insumos\EditorInsumo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Views\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MateriasPrimas\AdministradorMateriasPrimas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MateriasPrimas\EditorMateriaPrima.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Recetas\AdministradorRecetas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Recetas\EditorReceta.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

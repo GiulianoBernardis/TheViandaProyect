@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\LENOVO\source\repos\TheViandaProject\TheViandaProject\App.xaml
-1-1644662438
+71202192139
 
-81929397232
+15108884967
 1971789286113
-Views\MainWindow.xaml;
+Views\Insumos\AdministradorInsumos.xaml;Views\Insumos\EditorInsumo.xaml;Views\MainWindow.xaml;Views\MateriasPrimas\AdministradorMateriasPrimas.xaml;Views\MateriasPrimas\EditorMateriaPrima.xaml;Views\Recetas\AdministradorRecetas.xaml;Views\Recetas\EditorReceta.xaml;
 
 False
 
