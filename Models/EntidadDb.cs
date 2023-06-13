@@ -9,8 +9,8 @@ namespace TheViandaProject.Models
      public abstract class EntidadDb
      {
         public int Id { get; set; }
-        public DateTime Registro { get; set; }
-        public DateTime Modificacion { get; set; }
+        public DateTime FechaRegistro { get; set; }
+        public DateTime FechaModificacion { get; set; }
         public bool Deshabilitado { get; set; }
      }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TheViandaProject.Models
 {
-    public class Insumos : EntidadDb
+    public class Insumo : EntidadDb
     {
         public string Nombre { get; set; } = null!;
         public string Descripción { get; set; } = null!;

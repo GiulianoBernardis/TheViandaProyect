@@ -54,8 +54,8 @@ namespace TheViandaProject.Views.MateriasPrimas {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TheViandaProject;V1.0.0.0;component/views/materiasprimas/administradormateriaspr" +
-                    "imas.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TheViandaProject;component/views/materiasprimas/administradormateriasprimas.xaml" +
+                    "", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\MateriasPrimas\AdministradorMateriasPrimas.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
